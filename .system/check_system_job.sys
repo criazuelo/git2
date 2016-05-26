@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:30.000+02:00",
+  "description": "",
+  "extension": "sys",
+  "folder": [
+    "/.system",
+    "46372582-f9c3-4246-aa38-76583693a33d"
+  ],
+  "modifiedAt": "2016-04-14T15:03:30.000+02:00",
+  "name": "check_system_job",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": false,
+      "writable": false
+    },
+    "publiclyShared": false
+  },
+  "uuid": "30d26b99-654b-47c8-bb2d-1304231dd6f6"
+}
