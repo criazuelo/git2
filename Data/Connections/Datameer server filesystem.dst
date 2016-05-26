@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:29.000+02:00",
+  "description": "A data store for the local filesystem where Datameer is running.  Note, this works ONLY for Datameer Personal, Workgroup, and Trial editions.\n",
+  "extension": "dst",
+  "folder": [
+    "/Data/Connections",
+    "9755b0db-7130-4cfe-8546-5b0dccc30807"
+  ],
+  "modifiedAt": "2016-04-14T15:03:29.000+02:00",
+  "name": "Datameer server filesystem",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": true,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "78a2fb59-375e-4eae-b338-956ef806f7b1"
+}
