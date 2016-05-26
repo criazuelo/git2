@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:30.000+02:00",
+  "description": "",
+  "extension": "png",
+  "folder": [
+    "/Images/Library/Seamless",
+    "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+  ],
+  "modifiedAt": "2016-04-14T15:03:30.000+02:00",
+  "name": "Triangles",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "da8e14c8-1cd1-49cb-91e2-43f2a325466f"
+}
