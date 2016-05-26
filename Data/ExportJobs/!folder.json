@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "ExportJobs",
+  "parent": [
+    "/Data",
+    "75502c50-3d10-423a-8cec-ea99bc3a4f3c"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "16ee240f-d5a1-4dcd-ad67-d6634f5eb715"
+}
