@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:30.000+02:00",
+  "description": "",
+  "extension": "png",
+  "folder": [
+    "/Images/Library/Seamless",
+    "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+  ],
+  "modifiedAt": "2016-04-14T15:03:30.000+02:00",
+  "name": "Wood01Beech",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "fe607fc8-f9f2-4c4e-a3a3-ef7d46b2328c"
+}
