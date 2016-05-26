@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:30.000+02:00",
+  "description": "",
+  "extension": "png",
+  "folder": [
+    "/Images/Library/Seamless",
+    "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+  ],
+  "modifiedAt": "2016-04-14T15:03:30.000+02:00",
+  "name": "Grey",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "ad6f1f3c-17ab-4429-9245-510de2ad7976"
+}
