@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "Infographics",
+  "parent": [
+    "/Visualization",
+    "dfd471e6-b5fc-479e-84f2-2d4878e584f4"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "9ee4f4e1-142c-4638-acb9-4921c09748cc"
+}
