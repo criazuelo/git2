@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "Workbooks",
+  "parent": [
+    "/Analytics",
+    "2e82ec24-61d2-43d0-973a-6a3e71db0e46"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "a7f74830-9e8a-4a50-9bb1-3775c0922cf9"
+}
