@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "Seamless",
+  "parent": [
+    "/Images/Library",
+    "55adf695-4da8-497c-8cdd-eaf65cb9fba7"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+}
