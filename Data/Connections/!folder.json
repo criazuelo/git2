@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "Connections",
+  "parent": [
+    "/Data",
+    "75502c50-3d10-423a-8cec-ea99bc3a4f3c"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "9755b0db-7130-4cfe-8546-5b0dccc30807"
+}
