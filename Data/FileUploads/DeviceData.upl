@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-05-26T12:02:38.000+02:00",
+  "description": "",
+  "extension": "upl",
+  "folder": [
+    "/Data/FileUploads",
+    "63add9f8-cdee-4d20-a613-ad6c463e38b5"
+  ],
+  "modifiedAt": "2016-05-26T12:04:01.000+02:00",
+  "name": "DeviceData",
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": false,
+      "writable": false
+    },
+    "publiclyShared": false
+  },
+  "uuid": "c220bde2-a357-470c-bd93-a25763c40eb7"
+}
