@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:29.000+02:00",
+  "description": "",
+  "extension": "jpg",
+  "folder": [
+    "/Images/Library/Seamless",
+    "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+  ],
+  "modifiedAt": "2016-04-14T15:03:29.000+02:00",
+  "name": "Cork",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "6179a661-1af6-4aea-9c82-09ea3787e16d"
+}
