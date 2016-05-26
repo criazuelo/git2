@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:30.000+02:00",
+  "description": "",
+  "extension": "png",
+  "folder": [
+    "/Images/Library/Seamless",
+    "d84f32fb-984f-4407-bfea-a8ba76cc1972"
+  ],
+  "modifiedAt": "2016-04-14T15:03:30.000+02:00",
+  "name": "Grid100Grey",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "5824e37f-d779-415e-a030-ecc8b90a7817"
+}
