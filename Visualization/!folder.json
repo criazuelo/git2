@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "Visualization",
+  "parent": [
+    "/",
+    "fce54aba-79a3-4721-8708-9dbd00c50e49"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "dfd471e6-b5fc-479e-84f2-2d4878e584f4"
+}
