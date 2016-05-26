@@ -17,7 +17,7 @@
       "/Analytics/Workbooks",
       "a7f74830-9e8a-4a50-9bb1-3775c0922cf9"
     ],
-    "modifiedAt": "2016-05-26T12:52:32.000+02:00",
+    "modifiedAt": "2016-05-26T13:03:50.008+02:00",
     "name": "DeviceData",
     "permission": {
       "groups": {},
@@ -136,7 +136,7 @@
       ],
       "identifier": "f1410dcc-ef8b-433b-aff3-db7962c2d5ba",
       "kept": true,
-      "name": "CrashLevelCount4",
+      "name": "CrashLevelCount5",
       "position": 1
     }
   ],
