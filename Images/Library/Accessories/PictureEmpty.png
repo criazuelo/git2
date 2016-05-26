@@ -1,0 +1,22 @@
+{
+  "createdAt": "2016-04-14T15:03:29.000+02:00",
+  "description": "",
+  "extension": "png",
+  "folder": [
+    "/Images/Library/Accessories",
+    "18e39b9d-bc37-464f-bcc6-49a5943240e1"
+  ],
+  "modifiedAt": "2016-04-14T15:03:29.000+02:00",
+  "name": "PictureEmpty",
+  "permission": {
+    "groups": {},
+    "owner": "system",
+    "permissionForOthers": {
+      "executable": false,
+      "readable": true,
+      "writable": true
+    },
+    "publiclyShared": false
+  },
+  "uuid": "39029fce-87ff-4f76-b657-dc9f77fcb465"
+}
