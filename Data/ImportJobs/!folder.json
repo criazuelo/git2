@@ -1,0 +1,17 @@
+{
+  "hidden": false,
+  "name": "ImportJobs",
+  "parent": [
+    "/Data",
+    "75502c50-3d10-423a-8cec-ea99bc3a4f3c"
+  ],
+  "permission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": {
+      "readable": true,
+      "writable": true
+    }
+  },
+  "uuid": "e6845f46-db96-40d2-85ce-50a6fb30c927"
+}
