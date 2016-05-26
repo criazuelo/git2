@@ -1,0 +1,144 @@
+{
+  "_version": "5.11.11",
+  "dataPermission": {
+    "groups": {},
+    "owner": "admin",
+    "permissionForOthers": false
+  },
+  "errorHandling": {
+    "maxLogErrors": 1000,
+    "mode": "IGNORE"
+  },
+  "file": {
+    "createdAt": "2016-05-26T12:04:22.000+02:00",
+    "description": "",
+    "extension": "wbk",
+    "folder": [
+      "/Analytics/Workbooks",
+      "a7f74830-9e8a-4a50-9bb1-3775c0922cf9"
+    ],
+    "modifiedAt": "2016-05-26T12:52:32.000+02:00",
+    "name": "DeviceData",
+    "permission": {
+      "groups": {},
+      "owner": "admin",
+      "permissionForOthers": {
+        "executable": false,
+        "readable": false,
+        "writable": false
+      },
+      "publiclyShared": false
+    },
+    "uuid": "41a6edcd-6e14-4cb7-8371-82d824223440"
+  },
+  "jobConfiguration": {
+    "dataRetentionPolicy": {
+      "_type": "PurgeAfter",
+      "minimumToKeep": 1
+    },
+    "hadoopProperties": {},
+    "logging": {
+      "properties": {}
+    },
+    "triggering": {
+      "_type": "ManualTriggering"
+    }
+  },
+  "notification": {
+    "emailsInCaseOfFailure": [],
+    "emailsInCaseOfSuccess": []
+  },
+  "sheets": [
+    {
+      "_type": "DataSourceReferenceSheet",
+      "uuid": "c220bde2-a357-470c-bd93-a25763c40eb7",
+      "columns": [
+        {
+          "id": "DeviceID",
+          "name": "DeviceID",
+          "position": 0
+        },
+        {
+          "id": "UserID",
+          "name": "UserID",
+          "position": 1
+        },
+        {
+          "id": "Manufacturer",
+          "name": "Manufacturer",
+          "position": 2
+        },
+        {
+          "id": "CrashLevel",
+          "name": "CrashLevel",
+          "position": 3
+        },
+        {
+          "id": "CrashCode",
+          "name": "CrashCode",
+          "position": 4
+        },
+        {
+          "id": "CrashDescription",
+          "name": "CrashDescription",
+          "position": 5
+        },
+        {
+          "id": "CrashTime",
+          "name": "CrashTime",
+          "position": 6
+        },
+        {
+          "id": "AvailableMemMB",
+          "name": "AvailableMemMB",
+          "position": 7
+        },
+        {
+          "id": "Total_Memory",
+          "name": "Total_Memory",
+          "position": 8
+        },
+        {
+          "id": "DeviceAge",
+          "name": "DeviceAge",
+          "position": 9
+        }
+      ],
+      "identifier": "da91af03-0f55-4aa8-9b2b-80453673e8d5",
+      "kept": false,
+      "name": "DeviceData",
+      "position": 0,
+      "selectedPartition": {
+        "formula": "$partition \u003e\u003d ASDATE(\"17-09-2012 00:00:00.000\"; \"dd-MM-yyyy HH:mm:ss.SSS\") \u0026\u0026 $partition \u003c\u003d ASDATE(\"24-12-2012 00:00:00.000\"; \"dd-MM-yyyy HH:mm:ss.SSS\")"
+      }
+    },
+    {
+      "_type": "FormulaSheet",
+      "columns": [
+        {
+          "formula": "\u003dGROUPBY(#DeviceData!CrashLevel)",
+          "id": "0",
+          "name": "CrashLevel",
+          "position": 0
+        },
+        {
+          "formula": "\u003dGROUPCOUNT()",
+          "id": "1",
+          "name": "Count",
+          "position": 1
+        },
+        {
+          "formula": "\u003d1",
+          "id": "2",
+          "name": "C",
+          "position": 2
+        }
+      ],
+      "identifier": "f1410dcc-ef8b-433b-aff3-db7962c2d5ba",
+      "kept": true,
+      "name": "CrashLevelCount4",
+      "position": 1
+    }
+  ],
+  "properties": {}
+}
